@@ -1,0 +1,26 @@
+[
+    {
+        "text": "What is the capital city of Israel?",
+        "answer": ["jerusalem"],
+        "wrong": [
+            "tel aviv",
+            "haifa"
+        ]
+    },
+    {
+        "text": "What is the capital city of Germany?",
+        "answer": ["berlin"],
+        "wrong": [
+            "munich",
+            "hamburg"
+        ]
+    },
+    {
+        "text": "What is the capital city of France?",
+        "answer": ["paris"]
+    },
+    {
+        "text": "What is the capital city of USA?",
+        "answer": ["washington"]
+    }
+]
